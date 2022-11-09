@@ -8,6 +8,8 @@ import { Component, OnInit } from '@angular/core';
 export class HomeComponent implements OnInit {
 
   constructor() { }
+  headername="Pagina de inicio";
+  salary = 100;
 
   ngOnInit(): void {
   }
